@@ -52,7 +52,7 @@ The application is designed around a practical idea: advanced capabilities shoul
 
 ## Download and run
 
-The latest packaged build prepared for distribution is **PySonata 3.9.95**, a portable Windows x64 build.
+The latest public release is **PySonata 3.9.95**, a portable Windows x64 build.
 
 1. Open [GitHub Releases](https://github.com/ngocdolphin3275/PySonata/releases) and download `PySonata-Windows-x64.zip`.
 2. Extract the ZIP to a folder on your PC.
@@ -65,10 +65,19 @@ No separate Python installation or application installer is required.
 
 | File | Purpose |
 |---|---|
-| `PySonata-Windows-x64.zip` | The portable application and the runtime files required to run it. |
-| `PySonata-ThirdParty-Sources-and-Licenses.zip` | Third-party corresponding-source archives, license and copyright material, notices, build information and relinking instructions. This is a companion compliance archive, not PySonata application source code. |
+| [PySonata-Windows-x64.zip](https://github.com/ngocdolphin3275/PySonata/releases/download/v3.9.95/PySonata-Windows-x64.zip) | The portable application and the runtime files required to run it. |
+| [PySonata-ThirdParty-Sources-and-Licenses.zip](https://github.com/ngocdolphin3275/PySonata/releases/download/v3.9.95/PySonata-ThirdParty-Sources-and-Licenses.zip) | Third-party corresponding-source archives, license and copyright material, notices, build information and relinking instructions. This is a companion compliance archive, not PySonata application source code. |
 
 The runtime package already contains the third-party notices and license texts needed with the distributed binaries. The companion archive provides the associated source and additional license materials.
+
+## Verify your download
+
+Compare the downloaded files with these SHA-256 checksums:
+
+| File | SHA-256 |
+|---|---|
+| `PySonata-Windows-x64.zip` | `9A48E670CC347E81765E18A1402CB5EDAB079266FAD2029E16356F65A6354A50` |
+| `PySonata-ThirdParty-Sources-and-Licenses.zip` | `8D41CB527322964F80C9CE41FD8BA8EB5CE1CD8D8A419C13F383766F68753F34` |
 
 ## Platform
 
