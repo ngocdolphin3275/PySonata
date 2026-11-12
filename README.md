@@ -52,7 +52,7 @@ The application is designed around a practical idea: advanced capabilities shoul
 
 ## Download and run
 
-The current project release is **PySonata 3.9.95**, a portable Windows x64 build.
+The latest packaged build prepared for distribution is **PySonata 3.9.95**, a portable Windows x64 build.
 
 1. Open [GitHub Releases](https://github.com/ngocdolphin3275/PySonata/releases) and download `PySonata-Windows-x64.zip`.
 2. Extract the ZIP to a folder on your PC.
