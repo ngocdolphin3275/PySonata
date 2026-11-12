@@ -43,13 +43,13 @@ The application is designed around a practical idea: advanced capabilities shoul
 ### Music library
 
 <p align="center">
-  <img src="https://ngocdolphincom.wordpress.com/wp-content/uploads/2026/11/pysonata-library-screenshot.png" alt="PySonata music library" width="900">
+  <img src="https://ngocdolphincom.wordpress.com/wp-content/uploads/2026/11/pysonata-player-library-3.9.95.png" alt="PySonata 3.9.95 music player and library window" width="900">
 </p>
 
 ### Spectrogram
 
 <p align="center">
-  <img src="https://ngocdolphincom.wordpress.com/wp-content/uploads/2026/11/pysonata-spectrogram-screenshot.png" alt="PySonata spectrogram with audio properties and decibel scale" width="900">
+  <img src="https://ngocdolphincom.wordpress.com/wp-content/uploads/2026/11/pysonata-spectrogram-analysis-3.9.95.png" alt="PySonata 3.9.95 spectrogram analysis with audio properties and decibel scale" width="900">
 </p>
 
 ## Download and run
