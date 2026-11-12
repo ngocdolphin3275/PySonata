@@ -80,7 +80,7 @@ The runtime package already contains the third-party notices and license texts n
 
 **PySonata is proprietary, closed-source software.** Its application source code is not included in the release packages and is not licensed for reuse, modification or redistribution.
 
-PySonata also includes third-party components. Those components remain subject to their own licenses and notices. Refer to `THIRD_PARTY_NOTICES.txt`, `THIRD_PARTY_COMPONENTS_NUITKA.csv` and the companion sources-and-licenses archive for the relevant component information.
+PySonata also includes third-party components. Those components remain subject to their own licenses and notices. Refer to `THIRD_PARTY_NOTICES.txt`, `THIRD_PARTY_COMPONENTS.csv` and the companion sources-and-licenses archive for the relevant component information.
 
 Do not treat the availability of third-party source archives as permission to use PySonata's proprietary source code.
 
