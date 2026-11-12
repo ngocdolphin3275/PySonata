@@ -16,6 +16,8 @@ Product information is aligned with the official NgocDolphin project page.
   <a href="https://ngocdolphincom.wordpress.com/pysonata/">Project website</a>
   ·
   <a href="https://github.com/ngocdolphin3275/PySonata/releases">Downloads &amp; releases</a>
+  ·
+  <a href="https://github.com/ngocdolphin3275/PySonata/blob/main/EULA.md">End User License Agreement</a>
 </p>
 
 ---
@@ -88,6 +90,8 @@ Compare the downloaded files with these SHA-256 checksums:
 ## Licensing
 
 **PySonata is proprietary, closed-source software.** Its application source code is not included in the release packages and is not licensed for reuse, modification or redistribution.
+
+Before installing or using PySonata, please read the [End User License Agreement](EULA.md).
 
 PySonata also includes third-party components. Those components remain subject to their own licenses and notices. Refer to `THIRD_PARTY_NOTICES.txt`, `THIRD_PARTY_COMPONENTS.csv` and the companion sources-and-licenses archive for the relevant component information.
 
