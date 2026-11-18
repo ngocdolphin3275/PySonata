@@ -4,7 +4,7 @@ Product information is aligned with the official NgocDolphin project page.
 -->
 
 <p align="center">
-  <img src="https://ngocdolphincom.wordpress.com/wp-content/uploads/2026/11/pysonata-app-icon.png?w=512" alt="PySonata app icon" width="112">
+  <img src="https://ngocdolphincom.wordpress.com/wp-content/uploads/2026/11/pysonata-app-icon-official.png?w=512" alt="PySonata app icon" width="112">
 </p>
 
 <h1 align="center">PySonata</h1>
