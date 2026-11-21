@@ -99,6 +99,7 @@ Do not treat the availability of third-party source archives as permission to us
 
 ## Project links
 
+- **Feedback:** [Send me an email here.](mailto:ngocdolphin3275@portal.me)
 - [PySonata product page](https://ngocdolphincom.wordpress.com/pysonata/)
 - [NgocDolphin — independent software projects](https://ngocdolphincom.wordpress.com/)
 - [GitHub releases](https://github.com/ngocdolphin3275/PySonata/releases)
